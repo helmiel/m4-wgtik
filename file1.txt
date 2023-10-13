@@ -3,3 +3,7 @@ ini adalah contoh file baru
 Nambahin baris baru.
 
 Edit file ketika pake push ke github.
+
+Nama : Helmi Efendi Lubis
+NIM : 1301223338
+WGTIK
